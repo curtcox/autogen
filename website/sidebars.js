@@ -19,5 +19,5 @@
     'Research',
   ],
   // pydoc-markdown auto-generated markdowns from docstrings
-  referenceSideBar: [require("./docs/reference/sidebar.json")]
+  referenceSideBar: [require("./docs/new_reference/sidebar.json")]
 };
