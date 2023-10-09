@@ -8,6 +8,7 @@ rules:
  - "Code or filename must be provided, not both."
  - "Messages must be a list of dicts or a list of lists."
  - "Prompt must be a string or a list of strings."
+ - "All function names should be in snake_case."
  - "Stop must be a string, a list of strings, or a list of lists of strings."
 
 # This is the branch that Sweep will develop from and make pull requests to. Most people use 'main' or 'master' but some users also use 'dev' or 'staging'.
